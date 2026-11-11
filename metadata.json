@@ -1,0 +1,8 @@
+{
+  "name": "Prato do Dia",
+  "description": "Sistema de Cardápio Imersivo White-Label para Restaurantes e Catálogos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
